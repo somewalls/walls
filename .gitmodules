@@ -1,6 +1,6 @@
 [submodule "landscapes"]
 	path = landscapes
-	url = ./landscapes/
+	url = https://github.com/somewalls/landscapes.git
 [submodule "abstract"]
 	path = abstract
-	url = ./abstract
+	url = https://github.com/somewalls/abstract.git
