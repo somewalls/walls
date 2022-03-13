@@ -4,3 +4,6 @@
 [submodule "abstract"]
 	path = abstract
 	url = https://github.com/somewalls/abstract.git
+[submodule "anime"]
+	path = anime
+	url = https://github.com/somewalls/anime.git
